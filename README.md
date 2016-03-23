@@ -18,9 +18,12 @@ Installation intructions
 License
 ----
 
-- Apache 2.0
+- [Apache 2.0][1]
                               
 Contributors
 ----
+- Doug Stauber ([@DougStauber](https://twitter.com/DougStauber))
 
-  - Doug Stauber (on Twitter @DougStauber )
+  
+  
+  [1]: http://www.apache.org/licenses/LICENSE-2.0.html
